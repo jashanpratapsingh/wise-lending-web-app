@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "WiseLendingPWAUserFlow",
-    "slug": "WiseLendingPWAUserFlow",
+    "name": "wiselending_pwa_user_flow",
+    "slug": "wiselending_pwa_user_flow",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
